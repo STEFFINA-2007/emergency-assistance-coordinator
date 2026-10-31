@@ -46,11 +46,11 @@ Status flow: PENDING→ASSIGNED (via assign only)→IN_PROGRESS→RESOLVED; CANC
 
 ## Known limitations / future work
 In-memory data; no authentication; no automated frontend tests; add a database, real auth and notifications later.
-🎥 Project Demonstration Video
+## 🎥 Project Demonstration
+
 Watch the complete demonstration of our Emergency Assistance Coordinator project.
 
-▶ Watch Project Demonstration on LinkedIn
-
+▶️ [Watch Project Demonstration on LinkedIn](https://www.linkedin.com/posts/sri-shanth-5108b6380_emergencyassistancecoordinator-reactjs-java-ugcPost-7522188448485683200-tsZ4/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7522188572603428864&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4bBlwBQwszqo2usOCSaOu3bJUrxzeQ1aI)
 ## Group contributions
 | Member | Contribution |
 |---|---|
